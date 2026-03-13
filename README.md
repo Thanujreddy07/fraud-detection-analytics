@@ -85,11 +85,13 @@ AI Fraud Detection
 - Predicted vs Actual Fraud
 - High Risk Transaction Identification
 
-Interactive Dashboard Link:
+## Power BI Dashboard Preview
 
-🔗 View Dashboard  
-[Dashboard](https://app.powerbi.com/links/SudYGQej6D?ctid=3b0993d8-31db-4db6-b617-64ac193c7ace&pbi_source=linkShare)
+### Fraud Analytics Overview
+![Dashboard](images/dashboard_overview.png)
 
+### AI Fraud Detection
+![Dashboard](images/ai_fraud_dashboard.png)
 ---
 
 ## Repository Structure
